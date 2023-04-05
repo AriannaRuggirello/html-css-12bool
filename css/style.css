@@ -1,0 +1,19 @@
+.blue{
+    background-color: #006cfa;
+    padding: 15px;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
+
+.green{
+    padding: 10px;
+    background-color: #52d6b5;
+    color: white;
+    text-align: center;
+    border: 1px solid #006cfa;
+}
+
+section{
+    margin-top: 10px;
+}
